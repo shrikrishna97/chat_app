@@ -1,5 +1,5 @@
 import streamlit as st
-
+from model import create_table,add_data,veiw_all
 # Store messages in memory
 messages = []
 
